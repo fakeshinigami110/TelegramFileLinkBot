@@ -84,3 +84,4 @@ This project is licensed under the MIT License.
 
 
 ## Powered by Shinigami_110
+You can [contact me on Telegram](https://t.me/shinigami_110) using this link.
