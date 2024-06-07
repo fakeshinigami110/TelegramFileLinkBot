@@ -45,7 +45,7 @@ This is a Telegram bot that allows you to share files via deep links. Users need
 
 6. Run the bot:
     ```bash
-    python bot.py
+    main.py
     ```
 
 ## Bot Commands
