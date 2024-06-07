@@ -20,7 +20,7 @@ This is a Telegram bot that allows you to share files via deep links. Users need
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shinigami205/TelegramFileLinkBot.git
+    git clone https://github.com/fakeshinigami110/TelegramFileLinkBot.git
     cd TelegramFileLinkBot
     ```
 
